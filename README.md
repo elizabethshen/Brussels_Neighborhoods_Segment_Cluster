@@ -18,12 +18,12 @@ The final step is to analyze and categorize the different neighborhoods in the B
 
 ### Application examples:
 
-**Json File **: Since all the relevant data is in the [feature] key of [ Fourth level Administrative Divisions of the Brussel], we cleaned and reduced the data and to define a new variable that includes this data.
+***Json File***: Since all the relevant data is in the [feature] key of [ Fourth level Administrative Divisions of the Brussel], we cleaned and reduced the data and to define a new variable that includes this data.
 
-***Folium Map ***: We used Folium map intensively to show the different neighborhoods segments, and we also used the Choropleth map to produce the Brussels' neighborhood crime rate map.
+***Folium Map***: We used Folium map intensively to show the different neighborhoods segments, and we also used the Choropleth map to produce the Brussels' neighborhood crime rate map.
 
 ***Four Square API***: To get [the most common venues] in different neighborhoods in the Brussels Region.
 
-***Machine Leaning ***: K-Means: We run the best K analysis with [elbow method] and it shows the K=3 is the optimum k of the K-Means
+***Machine Leaning***: K-Means: We run the best K analysis with [elbow method] and it shows the K=3 is the optimum k of the K-Means
 
 Others: We used [geopy library] to get the latitude and longitude values of the 19 municipalities of Brussels.
